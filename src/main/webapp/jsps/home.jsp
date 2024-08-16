@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Mylandmark.Tech- Home Page</title>
+<title>DemcyUnuigbe.Tech- Home Page</title>
 <link href="images/LT.JPG" rel="icon">
 </head>
 </head>
@@ -18,20 +18,20 @@
 		<img src="images/logo.png" alt="" width="250">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		Demcy Unuigbe, 
+		Derby, united Kingdom.
+		+447760812358,
+		unuigbedemcy5@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:unuigbedemcy5@gmail.com">Mail to Demcy Unuigbe</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center>Demcy Unuigbe World - Devops Engineer, Sire Reliabilty Engineer, Cloud Engineer.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://unuigbedwemcyunuigbe@@gmail.com/">Demcy Unuigbe</a> </small></p>
 
 </body>
 </html>
